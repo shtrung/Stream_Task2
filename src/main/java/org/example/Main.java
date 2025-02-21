@@ -25,7 +25,7 @@ public class Main {
                         (double) value
                                 .stream()
                                 .mapToInt(Map.Entry::getValue)
-                                .sum() / value.size()));                      //Находим средне арифметическое
+                                .sum() / value.size()));                      //Находим среднеe арифметическое
 
     }
 }
